@@ -1,6 +1,8 @@
 # DRP_M1.2_HaoyuDong
-This is the code of Master 1.2 Design Research Project prototype. Used foruser-test and final-demo. 
-Industrial Design, TU Eindhoven
+This is the code of the Master 1.2 Design Research Project prototype. 
 
-(c) Haoyu Dong
-web: http://haoyudong.wixsite.com/projects
+Used for user test and final demo. 
+
+> (c) Haoyu Dong | 
+> Industrial Design | 
+> TU Eindhoven
